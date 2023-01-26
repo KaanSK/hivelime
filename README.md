@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://goreportcard.com/badge/github.com/KaanSK/hivelime" />
   <img src="https://ghcr-badge.deta.dev/kaansk/hivelime/size" />
-  <img src="https://img.shields.io/github/downloads/kaansk/hivelime/total?color=%233ABE25&label=Release%20Downloads" />
+<!--   <img src="https://img.shields.io/github/downloads/kaansk/hivelime/total?color=%233ABE25&label=Release%20Downloads" /> -->
 </p>
 
 # HiveLime
