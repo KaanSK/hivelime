@@ -26,6 +26,7 @@ Hivelime is a comprehensive integration between [TheHive](https://www.strangebee
 # Usage
 * Parameters should be provided via environment variables. Please see [docker-compose file](docker-compose.yml).
 * Run the app via docker or via simply `./hivelime`
+* _HiveLime_ will listen `http://SERVER_ADDRESS/sublime/event`. Make sure to provide `/sublime/event` url resource to Sublime Webhook action configuration.
 
 ## Notes
 * Alert reference is first 8 chars of detection CanonicalID;
